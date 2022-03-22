@@ -12,8 +12,7 @@ const List = ({ people }) => {
           <p>{name}</p>
           <div>{age}</div>
         </div>)
-      })
-
+        })
       }
     </>
   );
